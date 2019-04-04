@@ -18,7 +18,7 @@ Note: This is still MVP, so manual works needed
 
 ## How to find dapil id
 The number highlighted by red circle on the url is what we are looking for.
-
+![alt text](https://github.com/rendybjunior/kpurawler/blob/master/sample_dapil_id.jpg?raw=true)
 Here's one way that I find works
 1. Go to [KPU official site](https://infopemilu.kpu.go.id/)
 2. Click `Jenis Pemilihan` on the header
