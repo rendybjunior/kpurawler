@@ -1,7 +1,7 @@
 # kpurawler
 Crawl KPU track record data.
 Features:
-1. Automatically download pdf for all candidate on your Dapil
+1. Automatically download pdf for all candidates in your Dapil
 2. Skip zero bytes pdf file
 
 Ideas? Please submit issues.
